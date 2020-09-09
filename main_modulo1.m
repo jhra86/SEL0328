@@ -4,7 +4,7 @@
 close all; clear; clc
 
 
-%% item 1
+%% item 1:
 %Dados da tabela 8.6:
 w_vector = [26, 74.86, 116.21, 164.07, 223.96, 281.45]; 
 Vtg_vector = [3.9, 11.8, 18.4, 25.4, 34, 42.6];
